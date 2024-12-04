@@ -1,5 +1,4 @@
 # video_stream
-Here is a possible **README** file description for your project:
 
 ---
 
